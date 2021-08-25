@@ -1,4 +1,4 @@
-Artist Name,Track Name,Popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_in min/ms,time_signature
+Artist Name,Track Name,Popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration,time_signature
 David Bowie,Space Oddity - 2015 Remaster,73.0,0.31,0.403,,-13.664,1,0.0326,0.0726,9.27e-05,0.139,0.466,134.48,318027.0,4
 Crimson Sun,Essence of Creation,34.0,0.511,0.955,1.0,-5.059,1,0.129,0.0004,8.7e-06,0.263,0.291,151.937,220413.0,4
 P!nk,Raise Your Glass,78.0,0.7,0.709,7.0,-5.006,1,0.0839,0.0048,,0.0289,0.625,122.019,202960.0,4
